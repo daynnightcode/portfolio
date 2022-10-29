@@ -1,0 +1,4 @@
+Background image
+center content on page
+overlay background color
+color pallete
